@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Outlook ads
 // @namespace    http://tampermonkey.net/
-// @version      2024-10-23
+// @version      1.1
 // @description  remove ads from outlook
 // @author       You
 // @match        https://outlook.live.com/*
