@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Outlook reklamy
+// @name         Outlook ads
 // @namespace    http://tampermonkey.net/
-// @version      2024-10-22
-// @description  try to take over the world!
+// @version      2024-10-23
+// @description  remove ads from outlook
 // @author       You
 // @match        https://outlook.live.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=live.com
